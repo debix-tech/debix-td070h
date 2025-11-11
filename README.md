@@ -24,7 +24,7 @@ Compatible with DEBIX series computers with HDMI ports
 
 ## Specification:
 | DEBIX TD070H |  |
-|--------------|--|
+|:--------------|--|
 | LCD Size     | 7 inches (Diagonal) |
 | Resolution   | 1024 x 600 |
 | Active Area  | 154.21mm x 85.92mm |
